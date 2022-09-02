@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Zifan Si</title>
+    <link>http://FrankGithub2022.github.io/projects/</link>
+    <description>Recent content in Projects on Zifan Si</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://FrankGithub2022.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Level 1 - Waste Disposal Prototype (CAD)</title>
+      <link>http://FrankGithub2022.github.io/projects/p3/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://FrankGithub2022.github.io/projects/p3/</guid>
+      <description>The goal of this project is to design a mechanical system that automates the sorting and depositing of waste containers.
+The design is driven by a rotational actuator. With aid of the first link, the torque of the actuator will be transferred to the connecting link. The function of connecting link is to convert rotary motion into oscillating motion to push the final link. The force will drive the final link to lift the hopper vertically and drop the recyclable materials.</description>
+    </item>
+    
+    <item>
+      <title>Level 1 - Get a Grip（Python, Raspberry Pi)</title>
+      <link>http://FrankGithub2022.github.io/projects/p2/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://FrankGithub2022.github.io/projects/p2/</guid>
+      <description>Check My Project On Github
+In many remote regions around the world, there are many places that don’t have access to good healthcare. One aspect of good healthcare is having a good system for sanitizing medical tools. We wanted to come up with a solution, so that they can also have a good way to clean medical instruments. The solution was to use a robotic arm which can be accessed remotely to perform the task of sterilization.</description>
+    </item>
+    
+  </channel>
+</rss>
