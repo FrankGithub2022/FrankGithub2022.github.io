@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zifan Si</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Zifan Si</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hire Me</title>
+      <link>http://www.example.com/hire-me/</link>
+      <pubDate>Thu, 01 Sep 2022 10:55:21 -0400</pubDate>
+      
+      <guid>http://www.example.com/hire-me/</guid>
+      <description>I’m currently seeking Software related internships for Spring 2024 Co-op term !
+Please see below my resume and feel free to get in touch with me !
+Resume: Zifan Si - Resume Link to heading Email: franksiprofession@gmail.com Link to heading </description>
+    </item>
+    
+    <item>
+      <title>Courses - McMaster University</title>
+      <link>http://www.example.com/courses/</link>
+      <pubDate>Tue, 30 Aug 2022 01:57:09 -0400</pubDate>
+      
+      <guid>http://www.example.com/courses/</guid>
+      <description> Mathematics (4 courses) Link to heading Course Code Description Grade Math 1A03 Calculus For Science I A+ Math 1AA3 Calculus For Science II A+ MATH 1B03 Linear Algebra 1 A+ MATH 2Z03 Engineering Math III A General Engineering (1 course) Link to heading Course Code Description Grade ENGINEER 1P13 Integrated Dsgn Projcts in Eng A General Science (4 courses) Link to heading Course Code Description Grade CHEM 1E03 General Chemistry: Engineer I A+ PHYSICS 1A03 Introductory Physics A PHYSICS 1AA3 Introduction To Modern Physics A- PHYSICS 1E03 Wave,ElecMagnetic A- Complementary Elective (4 courses) Link to heading Course Code Description Grade LINGUIST 1Z03 Structure of Modern English I A+ LINGUIST 1ZZ3 Structure of Modern English II A+ ECON 1B03 Introductory Microeconomics A ECON 1BB3 Introductory Macroeconomics A- </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Tue, 30 Aug 2022 01:47:58 -0400</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>Hello! My name is Zifan Si - a second year Software Engineering student at McMaster University. I am passionate about combing my engineering skills into software field to impact the communities, starting from the one surrounding me.
+More details about my qualifications can be found on LinkedIn in here.
+Education Link to heading Bachelor of Engineering in Software Engineering (Co-op)
+McMaster University, 2026
+GPA: 3.9 / 4.0 Awarded the McMaster Entrance Scholarship Extracurricular Activities Link to heading Member, McMaster Club Programming Languages Link to heading Java C/C++ HTML CSS Python MATLAB Tools Link to heading Autodesk Inventor Github Microsoft Office Hugo </description>
+    </item>
+    
+    <item>
+      <title>Level 1 (Group) - Waste Disposal Prototype (Autodesk Inventor)</title>
+      <link>http://www.example.com/projects/p3/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/p3/</guid>
+      <description>A mechanism that automates the depositing of waste containers.
+Summary Link to heading My team and I created a mechanism that could life a hopper to empty dispose of containers as part of a recycling system. The design is driven by a rotational actuator. With aid of the first link, the torque of the actuator will be transferred to the connecting link. The function of connecting link is to convert rotary motion into oscillating motion to push the final link.</description>
+    </item>
+    
+    <item>
+      <title>Level 1 (Independent) - Autoclave Sorting Program (Python)</title>
+      <link>http://www.example.com/projects/p2/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/p2/</guid>
+      <description>A Python program to control the movement of a robotic arm and its gripper to sort 6 autoclave locations.
+Check My Project On Github
+Summary Link to heading I developed a Python program that autonomously spawns and sorts autoclaves into the appropriate location based on specific attributes. The real-life application of this program would be for using these containers to store the surgical tools and sterilize them in the autoclave.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Zifan Si</title>
+    <link>http://www.example.com/projects/</link>
+    <description>Recent content in Projects on Zifan Si</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Level 1 (Group) - Waste Disposal Prototype (Autodesk Inventor)</title>
+      <link>http://www.example.com/projects/p3/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/p3/</guid>
+      <description>A mechanism that automates the depositing of waste containers.
+Summary Link to heading My team and I created a mechanism that could life a hopper to empty dispose of containers as part of a recycling system. The design is driven by a rotational actuator. With aid of the first link, the torque of the actuator will be transferred to the connecting link. The function of connecting link is to convert rotary motion into oscillating motion to push the final link.</description>
+    </item>
+    
+    <item>
+      <title>Level 1 (Independent) - Autoclave Sorting Program (Python)</title>
+      <link>http://www.example.com/projects/p2/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/p2/</guid>
+      <description>A Python program to control the movement of a robotic arm and its gripper to sort 6 autoclave locations.
+Check My Project On Github
+Summary Link to heading I developed a Python program that autonomously spawns and sorts autoclaves into the appropriate location based on specific attributes. The real-life application of this program would be for using these containers to store the surgical tools and sterilize them in the autoclave.</description>
+    </item>
+    
+  </channel>
+</rss>
